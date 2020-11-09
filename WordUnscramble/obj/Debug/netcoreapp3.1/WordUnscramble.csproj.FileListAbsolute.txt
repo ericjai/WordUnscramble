@@ -1,0 +1,13 @@
+C:\Users\Richa\Desktop\Others\Applications_c#\WordUnscramble\WordUnscramble\bin\Debug\netcoreapp3.1\WordUnscramble.exe
+C:\Users\Richa\Desktop\Others\Applications_c#\WordUnscramble\WordUnscramble\bin\Debug\netcoreapp3.1\WordUnscramble.deps.json
+C:\Users\Richa\Desktop\Others\Applications_c#\WordUnscramble\WordUnscramble\bin\Debug\netcoreapp3.1\WordUnscramble.runtimeconfig.json
+C:\Users\Richa\Desktop\Others\Applications_c#\WordUnscramble\WordUnscramble\bin\Debug\netcoreapp3.1\WordUnscramble.runtimeconfig.dev.json
+C:\Users\Richa\Desktop\Others\Applications_c#\WordUnscramble\WordUnscramble\bin\Debug\netcoreapp3.1\WordUnscramble.dll
+C:\Users\Richa\Desktop\Others\Applications_c#\WordUnscramble\WordUnscramble\bin\Debug\netcoreapp3.1\WordUnscramble.pdb
+C:\Users\Richa\Desktop\Others\Applications_c#\WordUnscramble\WordUnscramble\obj\Debug\netcoreapp3.1\WordUnscramble.csprojAssemblyReference.cache
+C:\Users\Richa\Desktop\Others\Applications_c#\WordUnscramble\WordUnscramble\obj\Debug\netcoreapp3.1\WordUnscramble.csproj.CoreCompileInputs.cache
+C:\Users\Richa\Desktop\Others\Applications_c#\WordUnscramble\WordUnscramble\obj\Debug\netcoreapp3.1\WordUnscramble.AssemblyInfoInputs.cache
+C:\Users\Richa\Desktop\Others\Applications_c#\WordUnscramble\WordUnscramble\obj\Debug\netcoreapp3.1\WordUnscramble.AssemblyInfo.cs
+C:\Users\Richa\Desktop\Others\Applications_c#\WordUnscramble\WordUnscramble\obj\Debug\netcoreapp3.1\WordUnscramble.dll
+C:\Users\Richa\Desktop\Others\Applications_c#\WordUnscramble\WordUnscramble\obj\Debug\netcoreapp3.1\WordUnscramble.pdb
+C:\Users\Richa\Desktop\Others\Applications_c#\WordUnscramble\WordUnscramble\obj\Debug\netcoreapp3.1\WordUnscramble.genruntimeconfig.cache
